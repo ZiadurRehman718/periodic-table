@@ -1,0 +1,95 @@
+h1{
+    text-align: center;
+    font-size: 85px;
+    background-color: rgb(235, 235, 125);
+margin: -8px 0px 13px 0px;
+    padding: 51px 10px;
+}
+.table1 {
+    width: 90%;
+    border: 1px solid;
+    margin-left: 65px;
+}
+
+.table2 {
+    border: 1px solid;
+    width: 76%;
+    margin: 9px 10px 10px 212px;
+
+}
+
+td {
+    border: 1px solid;
+}
+
+body {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.orange{
+    background-color: orange;
+    color: rgba(9, 207, 9, 0.692);
+}
+.lightblue{
+    background-color: rgb(232, 196, 248);
+    color: rgba(9, 207, 9, 0.692);;
+}
+.white{
+    background-color: white;
+    color: red;
+}
+.beige{
+    background-color: rgb(241, 216, 104);
+    color: rgba(9, 207, 9, 0.692);;
+}
+.beige2{
+    background-color: rgb(241, 216, 104);
+    color: blue;
+}
+.lightgreen{
+    background-color: rgb(72, 226, 72);
+}
+.lightgreen2{
+    background-color: rgb(72, 226, 72);
+    color: blue;
+}
+.lightyellow{
+    background: rgb(255, 255, 46);
+}
+.lightyellow2{
+    background: rgb(255, 255, 46);
+    color: blue;
+}
+.lightyellow3{
+    background: rgb(255, 255, 46);
+    color: red;
+}
+.pink{
+    background-color: rgb(221, 96, 117);
+    
+}
+.pink2{
+    background-color: rgb(221, 96, 117);
+    color: blue;
+}
+.lightblue2{
+    background-color: rgb(95, 146, 223);
+}
+.peach{
+    background-color: rgb(245, 160, 87);
+}
+.peach2{
+    background-color: rgb(245, 160, 87);
+    color: green;
+}.golden{
+    background-color: rgb(201, 146, 9);
+}
+.bisque{
+    background-color: rgb(240, 202, 157);
+
+}
+.bisque2{
+    background-color: rgb(240, 202, 157);
+    color: red;
+}
